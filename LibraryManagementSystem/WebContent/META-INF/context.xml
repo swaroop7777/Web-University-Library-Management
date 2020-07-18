@@ -3,7 +3,7 @@
   <Resource name="jdbc/library" 
   			auth="Container" type="javax.sql.DataSource"
                maxActive="20" maxIdle="5" maxWait="10000"
-               username="root" password="somu" 
+               username="root" password="YourDBpassword" 
                driverClassName="com.mysql.cj.jdbc.Driver"
                url="jdbc:mysql://localhost:3306/library?useSSL=false&amp;serverTimezone=UTC"/>
 
